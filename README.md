@@ -10,7 +10,9 @@
 - My Email: **mostafa.elsayed.2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
+
+
 <a href="https://twitter.com/2002elsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2002elsayed" height="30" width="40" /></a>
 
 <a href="https://fb.com/mostafa.elsayed.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa.elsayed.2002" height="30" width="40" /></a>
@@ -18,8 +20,7 @@
 
 <a href="https://linkedin.com/in/mostafa-elsayed-19a610214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-elsayed-19a610214" height="30" width="40" /></a>
 
-
-</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
