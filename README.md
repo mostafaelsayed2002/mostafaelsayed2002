@@ -3,8 +3,6 @@
 
 - I’m currently working on **Almost Google**
 
-- I'm looking to help **small boys learn about programming**
-
 - All of my projects are available at [https://mostafaelsayed2002.github.io/portfolio/](https://mostafaelsayed2002.github.io/portfolio/)
 
 - My Email: **mostafa.elsayed.2002@gmail.com**
