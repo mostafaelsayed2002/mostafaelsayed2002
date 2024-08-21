@@ -3,7 +3,7 @@
 
 - I’m currently working on **Almost Google**
 
-- All of my projects are available at [https://mostafaelsayed2002.github.io/FrontEnd-Portfolio/]
+- All of my projects are available at https://mostafaelsayed2002.github.io/FrontEnd-Portfolio/
 - My Email: **mostafa.elsayed.2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
