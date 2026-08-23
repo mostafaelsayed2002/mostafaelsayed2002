@@ -1,83 +1,60 @@
-<h1 align="center">Hi, I'm Mostafa Elsayed</h1>
-<h3 align="center">A student at Cairo University - Faculty of Engneering - Computer Department</h3>
+# Hi, I'm Mostafa Elsayed
 
-- I’m currently working on **Almost Google**
+**M.Sc. Information Engineering @ Technical University of Munich (TUM), Heilbronn**
 
-- All of my projects are available at https://mostafaelsayed2002.github.io/FrontEnd-Portfolio/
-- My Email: **mostafa.elsayed.2002@gmail.com**
+I build AI systems that run where the data lives. Most of my recent work sits at the
+intersection of retrieval and low-level performance: indexing and searching large vector
+collections, compressing models so they fit on constrained hardware, and writing CUDA kernels
+to make them fast.
 
-<h3 align="left">Connect with me:</h3>
+Before TUM I completed a B.Sc. in Computer Engineering at Cairo University (1.2 German scale,
+Distinction with Honors).
 
+**Open to Werkstudent roles** in AI/ML or software engineering — Heilbronn, Stuttgart, or remote.
+Available immediately, 20 h/week during the semester.
 
-<a href="https://twitter.com/2002elsayed" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2002elsayed" height="30" width="40" />
-</a>
+### What I work with
 
-<a href="https://fb.com/mostafa.elsayed.2002" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa.elsayed.2002" height="30" width="40" />
-</a>
+**AI / ML** — PyTorch · Hugging Face Transformers · RAG · ChromaDB · vector databases · IVF &
+product quantization · model compression · OpenCV · BERT · YOLOv5
 
+**Systems** — C · C++ · CUDA · GPU computing · parallel programming · Embedded C · AVR · ARM Cortex-M
 
-<a href="https://linkedin.com/in/mostafa-elsayed-19a610214" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-elsayed-19a610214" height="30" width="40" />
-</a>
+**Web & Backend** — Python · TypeScript · React · Next.js · Node.js · Flask · REST APIs ·
+PostgreSQL · MySQL · MongoDB
 
+**Tools** — Git · Linux · Docker
 
+### Selected work
 
-<h3 align="left">Languages and Tools:</h3>
+**[Inferex](https://github.com/Inferex-AI)** — B.Sc. graduation project. A privacy-preserving
+desktop assistant that builds a searchable memory of your computer activity: it captures what
+you read and watch, indexes it in a vector database, and answers natural-language questions
+about it — entirely offline. Includes a custom CUDA kernel for lossless LLM compression that
+cut Qwen3-4B's VRAM from 8.4 GB to 5.8 GB with no accuracy loss, enough to run on a 6 GB
+consumer GPU.
 
+**[DBMS-CUDA](https://github.com/mostafaelsayed2002/DBMS-CUDA)** — A database engine that
+offloads SQL execution to the GPU, parsing DuckDB execution plans and streaming batches beyond
+GPU memory. 3.8x faster joins than the CPU baseline.
 
-<div align="left">   
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">  
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="40" height="40"/> 
- 
+**[Almost Google](https://github.com/mostafaelsayed2002/Almost-Google)** — A search engine built
+from scratch: crawler indexing 6,009 pages, inverted index, ranking, and phrase search, with a
+full frontend and backend.
 
+**[On The Go](https://github.com/mostafaelsayed2002/On-The-Go)** — Full-stack restaurant
+management system. React frontend, REST API, PostgreSQL schema, with authentication and
+role-based permissions across customer, employee, and admin users.
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>  
-    
-   
- 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  width="40" height="40"/> 
-    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="40" height="40"/>    
- 
+**[EntranceSystem](https://github.com/mostafaelsayed2002/EntranceSystem)** — License plate
+detection and recognition. OpenCV pipeline with edge detection, morphological operations, and
+contour analysis, then OCR via HOG features and logistic regression, served through Flask.
 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+**[ATmega328P-Drivers](https://github.com/mostafaelsayed2002/ATmega328P-Drivers)** — Peripheral
+drivers written from the register level up: GPIO, timers, I2C, SPI, UART, ADC, keypad, and
+seven-segment display.
 
+### Reach me
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
-
-
-
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-  
-    
-  <img  src= "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"  />
-
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" />
-  
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-
-</div>
-
-<br/>
-
-<p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaelsayed2002&show_icons=true&locale=en&layout=compact" alt="mostafaelsayed2002" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaelsayed2002&show_icons=true&locale=en" alt="mostafaelsayed2002"/>
-
-</p>
+- LinkedIn: [mostafaelsayed2002](https://linkedin.com/in/mostafaelsayed2002)
+- Email: mostafa.elsayed.2002@gmail.com
